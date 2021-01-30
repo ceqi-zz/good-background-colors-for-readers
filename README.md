@@ -1,4 +1,4 @@
-##Toy chrome extension that changes browser background color. 
+## Toy chrome extension that changes browser background color. 
 
 3 colors can be picked based on research "Good Background Colors for Readers".
 
